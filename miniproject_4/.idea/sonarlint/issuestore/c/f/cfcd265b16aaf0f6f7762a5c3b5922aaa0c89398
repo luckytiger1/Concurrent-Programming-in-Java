@@ -1,0 +1,24 @@
+
+R
+java:S3740ï"/Provide the parametrized type for this generic.(ËÛ·òúÿÿÿÿ8Ú½Ûí¥/
+M
+java:S3740ƒ"/Provide the parametrized type for this generic.(·‰óˆ8Û½Ûí¥/
+n	java:S135"YReduce the total number of break and continue statements in this loop to use at most one.(”øïæ
+a
+java:S1155¦">Use isEmpty() to check whether the collection is empty or not.(Í¦¸üÿÿÿÿ8æ½Ûí¥/
+m
+java:S1104j"RMake isDead a static final constant or non-public and provide accessors if needed.(ÖŠ¸úÿÿÿÿ
+h
+java:S1104‘"RMake weight a static final constant or non-public and provide accessors if needed.(œŠ¾x
+±
+java:S1845R"“Rename field "nodeId" to prevent any misunderstanding/clash with method "nodeId" defined in superclass "edu.coursera.concurrent.boruvka.Component".(÷Û¡÷8ö½Ûí¥/
+n
+java:S3776³"RRefactor this method to reduce its Cognitive Complexity from 22 to the 15 allowed.(şú‘˜üÿÿÿÿ
+u
+java:S1210Ï"YOverride "equals(Object obj)" to comply with the contract of the "compareTo(T o)" method.(Ê÷ Ìøÿÿÿÿ
+¬
+java:S1845‘"Rename field "weight" to prevent any misunderstanding/clash with method "weight" defined in superclass "edu.coursera.concurrent.boruvka.Edge".(œŠ¾x8™¾Ûí¥/
+D
+java:S4274¾"(Replace this assert with a proper check.(¦ºÚşÿÿÿÿ
+?
+java:S4274Ã"(Replace this assert with a proper check.(¹ˆÊ‚
